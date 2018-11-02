@@ -1,0 +1,21 @@
+{
+  "name": "developer-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "author": "Shane Darcy",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.0.35",
+    "babel-core": "^6.17.0",
+    "babel-preset-react": "^6.16.0",
+    "meow": "^3.7.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
